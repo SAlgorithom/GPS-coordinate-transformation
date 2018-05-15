@@ -31,4 +31,5 @@ bd2gcj(bdLat, bdLon):
     """
     BD-09 转 GCJ-02
     """
-    
+    
+偏差在5-10米之间
